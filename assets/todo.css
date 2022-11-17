@@ -1,0 +1,20 @@
+.row {
+    --bs-gutter-x: 0;
+}
+
+.myDIV{
+text-align: center;
+display: flex;
+justify-content: center;
+}
+.btnAction{
+    width: 4rem;
+}
+
+.hide{
+    display: none;
+}
+
+#logoutBtn{
+    float: right;
+}
